@@ -1,0 +1,20 @@
+{
+  "name": "@qccareerschool/form-components",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Welsh",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@types/react": "^16.4.7",
+    "react": "^16.4.1"
+  }
+}
